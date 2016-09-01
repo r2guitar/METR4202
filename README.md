@@ -1,1 +1,2 @@
-# METR4202
+% METR4202
+% This is the test file.
